@@ -1,0 +1,12 @@
+{ 
+  "token"  : "YOUR BOT TOKEN HERE",
+  
+  
+     "targetServerID": "YOUR TARGET SERVER ID",
+        "accountID": "YOUR ID FOR GETTING ADMIN POWER",
+        "botNickname": "YOUR BOT NEW NAME",
+        "botIcon": "https://6.top4top.net/p_1415xrqem1.jpg",
+        "newServerIcon": "https://6.top4top.net/p_1415xrqem1.jpg",
+        "newServerName": "NEW SERVER NAME"
+  
+}
